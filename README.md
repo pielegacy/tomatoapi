@@ -15,4 +15,6 @@ dotnet restore
 dotnet run
 ```
 
+I'm aware Tomatos is spelt wrong
+
 And navigate to [http://localhost:5000/api/Tomatos](http://localhost:5000/api/Tomatos)
